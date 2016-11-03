@@ -1,0 +1,31 @@
+header {
+  margin-top: 80px;
+}
+.text_autorization {
+  border: 1px solid #0b2f51;
+  padding: 10px 20px;
+  color: #9be0f6;
+  background: #0b2f51;
+  margin-top: 105px;
+}
+form {
+  margin-top: 115px;
+}
+.pass_input {
+  margin-top: 55px;
+}
+.form__label {
+  color: #233984;
+}
+.forgot_pass {
+  color: #595656;
+}
+.submit_button {
+  margin-top: 75px;
+}
+.btn__text {
+  color: black;
+  font-weight: bold;
+  padding: 10px 30px;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.5);
+}
